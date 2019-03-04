@@ -12,8 +12,11 @@ PASSWORD=
 DIR=
 
 Host is the address of the server. For example, my FTP backup address is: dedibackup-dc3.online.net
+
 User is the username of the FTP login. It's the default hostname of your server (At least in my case).
+
 Password is the password to your Online.net account, which you hopefully know.
+
 Dir (or directory) is the directory of which your files are stored in. It will transfer all of the files from this directory to your FTP server.
 
 # Optional
