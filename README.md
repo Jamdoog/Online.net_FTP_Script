@@ -3,9 +3,12 @@ Backups up files in a directory to there free 100GB Storage.
 
 You need to fill in the following:
 
-HOST=\n
+HOST=
+
 USER=
+
 PASSWORD=
+
 DIR=
 
 Host is the address of the server. For example, my FTP backup address is: dedibackup-dc3.online.net
