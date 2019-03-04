@@ -3,7 +3,7 @@ Backups up files in a directory to there free 100GB Storage.
 
 You need to fill in the following:
 
-HOST=
+HOST=\n
 USER=
 PASSWORD=
 DIR=
